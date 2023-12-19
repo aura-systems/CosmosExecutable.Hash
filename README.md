@@ -9,6 +9,12 @@
 3. pkg /add hash
 4. run hash {sha256/sha512/md5} {file/string} {file_path/text_string}
 
+## Build
+
+1. Clone [CosmosExecutable](https://github.com/aura-systems/CosmosExecutable).
+2. Build using Visual Studio
+3. .\CosmosExecutable.exe ".\source" ".\hash.cexe"
+
 ## Authors
 
 👤 **[@valentinbreiz](https://github.com/valentinbreiz)**
